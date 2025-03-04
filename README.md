@@ -35,7 +35,7 @@ To deploy this project locally:
 bash
 Copy
 Edit
-git clone [https://github.com/username/project-name.git](https://github.com/Genebrazley23/se_project_TwinPeaks)
+git clone https://github.com/Genebrazley23/se_project_TwinPeaks
 
 #2 Navigate to the project directory:
 

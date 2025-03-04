@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
-    "homepage": "https://Genebrazley23.github.io/se_project_library--S1/"
+    "homepage": "https://genebrazley23.github.io/se_project_TwinPeaks/"
   },
   "author": "",
   "license": "ISC",

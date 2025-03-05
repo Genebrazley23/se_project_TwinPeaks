@@ -24,8 +24,8 @@ Hover States: Links and elements have hover effects as specified in the brief.
 Image Gallery: Displays images in the "Events" section with a smooth hover effect.
 Screenshots
 
-## Demo Video
-Watch the demo video here
+## Demo Video:
+https://youtu.be/Xkk4D5w6rU0)
 
 # Deployment Instructions
 To deploy this project locally:
